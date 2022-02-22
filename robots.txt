@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://no-jitu-mbah-semar.github.io/no-5/sitemap.xml
